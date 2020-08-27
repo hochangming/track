@@ -1,14 +1,14 @@
-{
-  "Food": [
-    {
-      "Food_name": "salad_mango",
-      "size": 10,
-      "Restaurant": "Kopitiam"
-    },
-    {
-      "Food_name": "Pasta_bolognese",
-      "size": 15,
-      "Restaurant": "Pasta Mania"
-    }
-  ]
-}
+[
+  {
+    "title": "Push-up",
+    "body": "30 each time",
+    "ExerciseId": 1,
+    "id": 1
+  },
+  {
+    "ExerciseId": 1,
+    "id": 2,
+    "title": "Pull-up",
+    "body": "10 pull ups each time"
+  }
+]
