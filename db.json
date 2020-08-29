@@ -1,4 +1,5 @@
-[
+{
+  "Exercises":[
   {
     "id": "1",
     "name": "Push Up",
@@ -36,3 +37,4 @@
     "image": "https://drive.google.com/uc?id=1Zq3aWgAr_UwqSd_xv_zFLd8IW0yzsTZ5"
   }
 ]
+}
