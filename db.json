@@ -1,22 +1,38 @@
-{
-  "Exercises": [
-    {
-      "title": "Push-up",
-      "body": "30 each time",
-      "ExerciseId": 1,
-      "id": 1
-    },
-    {
-      "ExerciseId": 1,
-      "id": 1,
-      "title": "Pull-up",
-      "body": "10 pull ups each time"
-    },
-    {
-      "ExerciseId": 1,
-      "id": 2,
-      "title": "Squats",
-      "body": "10 Squats each time"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "name": "Push Up",
+    "desc": "Recommended times: 5 sets of 10 each time. 1 minute break in between sets.",
+    "image": "https://i.postimg.cc/HkZqY29F/push-up-pose-vector.png"
+  },
+  {
+    "id": "2",
+    "name": "Pull-ups",
+    "desc": "Recommended times: 4 sets of 5 each time. 2 minute break in between sets.",
+    "image": "https://drive.google.com/uc?id=1vo815XZpsVgStC-gU9-O_oP3SeBoA6T4"
+  },
+  {
+    "id": "3",
+    "name": "Squats",
+    "desc": "Recommended times: 4 sets of 10 each time. 3 minute break in between sets",
+    "image": "https://drive.google.com/uc?id=1J26Rmf_sPjUdEgiAesHqN8i5o-JlOwSl"
+  },
+  {
+    "id": "4",
+    "name": "Sit ups",
+    "desc": "Recommended times: 4 sets of 20 each. 1 minute break in between sets",
+    "image": "https://drive.google.com/uc?id=1D9NAnBmQUzxouYXYXmS45IbWM160AlTv"
+  },
+  {
+    "id": "5",
+    "name": "Aston Martin",
+    "desc": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford.",
+    "image": "https://drive.google.com/uc?id=1w2UdUJy1BRPCNIxhnKDvc6RhWSrEtuGE"
+  },
+  {
+    "id": "6",
+    "name": "Lamborghini",
+    "desc": "Automobili Lamborghini is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese and tractors Lamborghini Trattori in Pieve di Cento, Italy. The company is owned by the Volkswagen Group through its subsidiary Audi.",
+    "image": "https://drive.google.com/uc?id=1Zq3aWgAr_UwqSd_xv_zFLd8IW0yzsTZ5"
+  }
+]
